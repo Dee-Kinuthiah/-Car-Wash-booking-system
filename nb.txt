@@ -1,0 +1,5 @@
+in the book webpage one should be able to register and log in.
+once a person has logged in he should be able to fill in a form containing the details of the car being washed:
+the contacts page should be linked to the database too and a confirmation eg "contacts have been saved thank you"
+anything else you need confirm please 
+thank you
